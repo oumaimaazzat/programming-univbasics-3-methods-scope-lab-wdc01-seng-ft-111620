@@ -16,12 +16,7 @@ end
 
 def all_phrases
   puts mario
-end
-
-def all_phrases
   puts toadstool
-end
-
-def all_phrases
   puts link
 end
+
